@@ -83,14 +83,12 @@ A React dashboard that looks better than it performs. Working on it.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github)](https://github.com/YOURUSERNAME)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOURUSERNAME)
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Resume](https://img.shields.io/badge/RESUME-333333?style=for-the-badge&logo=readme&logoColor=white)](https://yourresume.link)
+[![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github)](https://github.com/sanbisensei)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahin-shariar-a728a7388/)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](zahinshariar0@gmail.com)
+[![Resume](https://img.shields.io/badge/RESUME-333333?style=for-the-badge&logo=readme&logoColor=white)](https://www.linkedin.com/in/zahin-shariar-a728a7388/)
 
 </div>
-
-> *Every commit I make is essentially a small, desperate apology to my future self. Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.*
 
 ---
 
@@ -108,14 +106,8 @@ A React dashboard that looks better than it performs. Working on it.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanbisensei&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" width="48%"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanbisensei&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanbisensei&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa" width="38%"/>
 
 </div>
 
