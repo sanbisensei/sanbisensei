@@ -16,9 +16,8 @@
 
 **Hey there! I'm Zahin Shariar**
 
-I'm a Web Developer and CSE undergrad at **East West University**, currently in my **3rd year** — fueled by caffeine and an obsessive love for clean UI. By day, I pretend to understand backend architecture. By night, I write JavaScript that somehow works on the first try (it doesn't). When I'm not pushing commits, I'm probably redesigning something that didn't need redesigning.
-
-> *"Do Code and avoid sugar"*
+I'm a Web Developer and CSE undergrad at **East West University**, currently in my **3rd year** — fueled by caffeine and an obsessive love for clean UI. By day, I explore backend architecture. By night, I build APIs, and by midnight, I sharpen my problem-solving skills in this AI era.
+> *"Code until you become a zombie."*
 
 </td>
 <td valign="middle" width="40%" align="center">
