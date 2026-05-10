@@ -84,7 +84,7 @@ working
 
 [![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github)](https://github.com/sanbisensei)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zahin-shariar-a728a7388/)
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](zahinshariar0@gmail.com)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zahinshariar0@gmail.com)
 [![Resume](https://img.shields.io/badge/RESUME-333333?style=for-the-badge&logo=readme&logoColor=white)](https://www.linkedin.com/in/zahin-shariar-a728a7388)
 
 </div>
