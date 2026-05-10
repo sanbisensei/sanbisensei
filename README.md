@@ -115,7 +115,9 @@ A React dashboard that looks better than it performs. Working on it.
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sanbisensei&style=flat-square&color=black&label=PROFILE+VIEWS&labelColor=black&color=white)
+<img src="https://komarev.com/ghpvc/?username=sanbisensei&label=Profile+Views&color=00d9ff&style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/sanbisensei?label=Followers&style=for-the-badge&color=00d9ff" />
 
 </div>
 
