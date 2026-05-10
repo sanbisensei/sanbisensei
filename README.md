@@ -33,7 +33,7 @@ I'm a Web Developer and CSE undergrad at **East West University**, currently in 
 <table>
 <tr>
 <td valign="middle" width="20%" align="center">
-  <img src="https://github.com/sanbisensei/sanbisensei/blob/main/one.gif" width="400px"/>
+  <img src="https://github.com/sanbisensei/sanbisensei/blob/main/PROJECTS.png" width="500px"/>
 </td>
 <td valign="middle" width="80%">
 
@@ -128,5 +128,5 @@ A React dashboard that looks better than it performs. Working on it.
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:000000&height=120&section=footer" width="100%"/>
+  <img src="https://github.com/sanbisensei/sanbisensei/blob/main/footer.png"/>
 </div>
