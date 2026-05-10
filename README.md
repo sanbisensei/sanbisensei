@@ -73,7 +73,7 @@ I'm a Web Developer and CSE undergrad at **East West University**, currently in 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanbisensei&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=333333&hide_border=true" width="100%"/>
 
 </div>
 
@@ -83,14 +83,14 @@ I'm a Web Developer and CSE undergrad at **East West University**, currently in 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sanbisensei&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sanbisensei&theme=github-dark-blue&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="48%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa" width="38%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanbisensei&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa" width="38%"/>
 
 </div>
 
@@ -98,7 +98,7 @@ I'm a Web Developer and CSE undergrad at **East West University**, currently in 
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOURUSERNAME&style=flat-square&color=white&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=sanbisensei&style=flat-square&color=white&label=PROFILE+VIEWS)
 
 </div>
 
