@@ -31,11 +31,32 @@ I'm a Web Developer and CSE undergrad at **East West University**, currently in 
 
 ### 🔥 Top Projects *(built to avoid manual labor)*
 
-&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/-Project%20One-black?style=flat-square&logo=github)](https://github.com/YOURUSERNAME/project-one) &nbsp; A full-stack web app — because REST APIs deserve love too.
+<table>
+<tr>
+<td valign="middle" width="20%" align="center">
+  <img src="https://github.com/sanbisensei/sanbisensei/blob/main/one.gif" width="400px"/>
+</td>
+<td valign="middle" width="80%">
 
-&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/-Project%20Two-black?style=flat-square&logo=github)](https://github.com/YOURUSERNAME/project-two) &nbsp; Real-time features with Redis & Socket.io, because polling is for peasants.
+**Project One:** &nbsp; [![GitHub](https://img.shields.io/badge/-Source-black?style=flat-square&logo=github)](https://github.com/YOURUSERNAME/project-one) [![Live](https://img.shields.io/badge/-Live-success?style=flat-square)](https://yourlink.com)
+A full-stack web app with auth, dashboards, and REST APIs. Because clean architecture deserves love too.
+`React` `Node.js` `MongoDB` `Express`
 
-&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/-Project%20Three-black?style=flat-square&logo=github)](https://github.com/YOURUSERNAME/project-three) &nbsp; A React dashboard that looks better than it performs. Working on it.
+---
+
+**Project Two:** &nbsp; [![GitHub](https://img.shields.io/badge/-Source-black?style=flat-square&logo=github)](https://github.com/YOURUSERNAME/project-two) [![Live](https://img.shields.io/badge/-Live-success?style=flat-square)](https://yourlink.com)
+Real-time chat & notifications with Redis pub/sub and Socket.io. Because polling is for peasants.
+`Socket.io` `Redis` `Node.js` `React`
+
+---
+
+**Project Three:** &nbsp; [![GitHub](https://img.shields.io/badge/-Source-black?style=flat-square&logo=github)](https://github.com/YOURUSERNAME/project-three)
+A React dashboard that looks better than it performs. Working on it.
+`React` `Redux` `Tailwind` `Chart.js`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -103,7 +124,7 @@ I'm a Web Developer and CSE undergrad at **East West University**, currently in 
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sanbisensei&style=flat-square&color=white&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=sanbisensei&style=flat-square&color=black&label=PROFILE+VIEWS&labelColor=black&color=white)
 
 </div>
 
