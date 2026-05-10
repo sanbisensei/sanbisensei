@@ -10,9 +10,9 @@
 
 </div>
 
-<br/>
-
-<img align="right" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="200px"/>
+<table>
+<tr>
+<td valign="middle" width="60%">
 
 **Hey there! I'm Zahin Shariar**
 
@@ -20,7 +20,12 @@ I'm a Web Developer and CSE undergrad at **East West University**, currently in 
 
 > *"Code is never finished. It only becomes slightly less terrible over time."*
 
-<br clear="right"/>
+</td>
+<td valign="middle" width="40%" align="center">
+  <img src="https://github.com/sanbisensei/sanbisensei/blob/main/one.gif" width="300px"/>
+</td>
+</tr>
+</table>
 
 ---
 
