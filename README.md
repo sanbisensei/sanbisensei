@@ -38,20 +38,19 @@ I'm a Web Developer and CSE undergrad at **East West University**, currently in 
 <td valign="middle" width="80%">
 
 **Project One:** &nbsp; [![GitHub](https://img.shields.io/badge/-Source-black?style=flat-square&logo=github)](https://github.com/YOURUSERNAME/project-one) [![Live](https://img.shields.io/badge/-Live-success?style=flat-square)](https://yourlink.com)
-A full-stack web app with auth, dashboards, and REST APIs. Because clean architecture deserves love too.
-`React` `Node.js` `MongoDB` `Express`
+working
 
 ---
 
 **Project Two:** &nbsp; [![GitHub](https://img.shields.io/badge/-Source-black?style=flat-square&logo=github)](https://github.com/YOURUSERNAME/project-two) [![Live](https://img.shields.io/badge/-Live-success?style=flat-square)](https://yourlink.com)
-Real-time chat & notifications with Redis pub/sub and Socket.io. Because polling is for peasants.
-`Socket.io` `Redis` `Node.js` `React`
+working
+
 
 ---
 
 **Project Three:** &nbsp; [![GitHub](https://img.shields.io/badge/-Source-black?style=flat-square&logo=github)](https://github.com/YOURUSERNAME/project-three)
-A React dashboard that looks better than it performs. Working on it.
-`React` `Redux` `Tailwind` `Chart.js`
+working
+
 
 </td>
 </tr>
