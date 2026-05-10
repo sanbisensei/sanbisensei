@@ -18,7 +18,7 @@
 
 I'm a Web Developer and CSE undergrad at **East West University**, currently in my **3rd year** — fueled by caffeine and an obsessive love for clean UI. By day, I pretend to understand backend architecture. By night, I write JavaScript that somehow works on the first try (it doesn't). When I'm not pushing commits, I'm probably redesigning something that didn't need redesigning.
 
-> *"Code is never finished. It only becomes slightly less terrible over time."*
+> *"Do Code and avoid sugar"*
 
 </td>
 <td valign="middle" width="40%" align="center">
