@@ -37,9 +37,9 @@ I'm a Web Developer and CSE undergrad at **East West University**, currently in 
 </td>
 <td valign="middle" width="80%">
 
-**Project One:** &nbsp; [![GitHub](https://img.shields.io/badge/-Source-black?style=flat-square&logo=github)](https://github.com/YOURUSERNAME/project-one) [![Live](https://img.shields.io/badge/-Live-success?style=flat-square)](https://yourlink.com)
-working
-
+**Project One:** &nbsp; [![GitHub](https://img.shields.io/badge/-Source-black?style=flat-square&logo=github)](https://github.com/sanbisensei/Be-Mangakka) [![Live](https://img.shields.io/badge/-Live-success?style=flat-square)](https://yourlink.com)
+Ai Integated Saas App where Otakus can create their own mangas with their own story.
+`ReactJS` `Supabase` `TailwindV3` `in process...`
 ---
 
 **Project Two:** &nbsp; [![GitHub](https://img.shields.io/badge/-Source-black?style=flat-square&logo=github)](https://github.com/YOURUSERNAME/project-two) [![Live](https://img.shields.io/badge/-Live-success?style=flat-square)](https://yourlink.com)
